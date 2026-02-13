@@ -1,0 +1,8 @@
+penpot/node_modules/
+.idea/
+.vscode/
+.antigravity/
+.env
+docker-compose.yaml
+version.txt
+docker-compose.backup.yaml
