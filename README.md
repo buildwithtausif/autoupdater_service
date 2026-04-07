@@ -1,4 +1,4 @@
-# Penpot Auto-Update Service
+# Penpot Updater Node.js based script
 
 A tool to update penpot on a self hosted docker instance
 
